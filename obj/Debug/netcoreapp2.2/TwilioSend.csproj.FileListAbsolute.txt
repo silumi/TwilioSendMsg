@@ -1,0 +1,11 @@
+C:\Users\ASUS\TwilioSend\bin\Debug\netcoreapp2.2\TwilioSend.deps.json
+C:\Users\ASUS\TwilioSend\bin\Debug\netcoreapp2.2\TwilioSend.runtimeconfig.json
+C:\Users\ASUS\TwilioSend\bin\Debug\netcoreapp2.2\TwilioSend.runtimeconfig.dev.json
+C:\Users\ASUS\TwilioSend\bin\Debug\netcoreapp2.2\TwilioSend.dll
+C:\Users\ASUS\TwilioSend\bin\Debug\netcoreapp2.2\TwilioSend.pdb
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.csprojAssemblyReference.cache
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.AssemblyInfoInputs.cache
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.AssemblyInfo.cs
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.dll
+C:\Users\ASUS\TwilioSend\obj\Debug\netcoreapp2.2\TwilioSend.pdb
